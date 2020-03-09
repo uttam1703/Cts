@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT0190/Documents/jar_file/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT0190/Documents/jar_file/selenium-server-standalone-3.141.59 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT0190/Documents/jar_file/poi-scratchpad-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT0190/Documents/jar_file/poi-ooxml-schemas-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT0190/Documents/jar_file/poi-ooxml-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT0190/Documents/jar_file/poi-excelant-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT0190/Documents/jar_file/poi-examples-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT0190/Documents/jar_file/poi-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT0190/Documents/jar_file/org.apache.commons.codec-1.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT0190/Documents/jar_file/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT0190/Documents/jar_file/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT0190/Documents/jar_file/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT0190/Documents/jar_file/file-utils.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT0190/Documents/jar_file/curvesapi-1.03.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT0190/Documents/jar_file/commons-io-2.6-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT0190/Documents/jar_file/commons-io-2.6-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT0190/Documents/jar_file/commons-io-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT0190/Documents/jar_file/commons-io-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT0190/Documents/jar_file/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT0190/Documents/jar_file/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT0190/Documents/jar_file/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT0190/Documents/jar_file/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT0190/Documents/jar_file/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
